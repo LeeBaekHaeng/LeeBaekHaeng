@@ -34,9 +34,9 @@ https://github.com/eGovFramework
 
 전자정부 표준프레임워크 컨트리뷰션 참여
 - 2021년 전자정부 표준프레임워크 컨트리뷰션 참여
-- [2022년 전자정부 표준프레임워크 컨트리뷰션 참여](2022/README.md)
-- [2023년 전자정부 표준프레임워크 컨트리뷰션 참여](2023/README.md)
-- [2024년 전자정부 표준프레임워크 컨트리뷰션 참여](2024/README.md)
+- [2022년 전자정부 표준프레임워크 컨트리뷰션 참여](https://github.com/LeeBaekHaeng/dev-diary/blob/main/2022/README.md)
+- [2023년 전자정부 표준프레임워크 컨트리뷰션 참여](https://github.com/LeeBaekHaeng/dev-diary/blob/main/2023/README.md)
+- [2024년 전자정부 표준프레임워크 컨트리뷰션 참여](https://github.com/LeeBaekHaeng/dev-diary/blob/main/2024/README.md)
 - [2025년 전자정부 표준프레임워크 4.3.0 컨트리뷰션 참여](https://github.com/LeeBaekHaeng25)
 
 <!--
