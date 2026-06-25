@@ -1,5 +1,19 @@
 ### 안녕하세요 Hi there 👋
 
+매일 표준프레임워크 컨트리뷰션
+- 2026년 전자정부 표준프레임워크 컨트리뷰션 참여
+  - [DAO 불필요한 예외(throws Exception) 제거](https://github.com/LeeBaekHaeng/dev-diary/blob/main/2026/02.2026%EB%85%84%20%EC%A0%84%EC%9E%90%EC%A0%95%EB%B6%80%20%ED%91%9C%EC%A4%80%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC%20%EC%BB%A8%ED%8A%B8%EB%A6%AC%EB%B7%B0%EC%85%98/01.DAO%20%EB%B6%88%ED%95%84%EC%9A%94%ED%95%9C%20%EC%98%88%EC%99%B8(throws%20Exception)%20%EC%A0%9C%EA%B1%B0.md)
+  - [DAO 반환값 추가](https://github.com/LeeBaekHaeng/dev-diary/blob/main/2026/02.2026%EB%85%84%20%EC%A0%84%EC%9E%90%EC%A0%95%EB%B6%80%20%ED%91%9C%EC%A4%80%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC%20%EC%BB%A8%ED%8A%B8%EB%A6%AC%EB%B7%B0%EC%85%98/02.DAO%20%EB%B0%98%ED%99%98%EA%B0%92%20%EC%B6%94%EA%B0%80.md)
+  - [DAO 문자열 기반 설정 제거](https://github.com/LeeBaekHaeng/dev-diary/blob/main/2026/02.2026%EB%85%84%20%EC%A0%84%EC%9E%90%EC%A0%95%EB%B6%80%20%ED%91%9C%EC%A4%80%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC%20%EC%BB%A8%ED%8A%B8%EB%A6%AC%EB%B7%B0%EC%85%98/03.DAO%20%EB%AC%B8%EC%9E%90%EC%97%B4%20%EA%B8%B0%EB%B0%98%20%EC%84%A4%EC%A0%95%20%EC%A0%9C%EA%B1%B0.md)
+  - [@Bean 메서드의 불필요한 public 접근제어자 제거](https://github.com/LeeBaekHaeng/dev-diary/blob/main/2026/02.2026%EB%85%84%20%EC%A0%84%EC%9E%90%EC%A0%95%EB%B6%80%20%ED%91%9C%EC%A4%80%ED%94%84%EB%A0%88%EC%9E%84%EC%9B%8C%ED%81%AC%20%EC%BB%A8%ED%8A%B8%EB%A6%AC%EB%B7%B0%EC%85%98/04.%40Bean%20%EB%A9%94%EC%84%9C%EB%93%9C%EC%9D%98%20%EB%B6%88%ED%95%84%EC%9A%94%ED%95%9C%20public%20%EC%A0%91%EA%B7%BC%EC%A0%9C%EC%96%B4%EC%9E%90%20%EC%A0%9C%EA%B1%B0.md)
+- [2025년 전자정부 표준프레임워크 4.3.0 컨트리뷰션 참여](https://github.com/LeeBaekHaeng25)
+- [2024년 전자정부 표준프레임워크 컨트리뷰션 참여](https://github.com/LeeBaekHaeng/dev-diary/blob/main/2024/README.md)
+- [2023년 전자정부 표준프레임워크 컨트리뷰션 참여](https://github.com/LeeBaekHaeng/dev-diary/blob/main/2023/README.md)
+- [2022년 전자정부 표준프레임워크 컨트리뷰션 참여](https://github.com/LeeBaekHaeng/dev-diary/blob/main/2022/README.md)
+- 2021년 전자정부 표준프레임워크 컨트리뷰션 참여
+
+---
+
 공공 SI 전자정부 표준프레임워크 AA(애플리케이션 아키텍트)
 - 모놀리식 아키텍처(WEB/WAS/DB 이중화)
 - 개발가이드, 개발표준가이드
